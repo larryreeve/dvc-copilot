@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "appStore": {
+    "enforcementEnabled": false,
+    "minimumSupportedVersion": "1.0",
+    "minimumSupportedBuild": 90,
+    "message": "Please update DVC Copilot to continue."
+  },
+  "testFlight": {
+    "enforcementEnabled": false,
+    "minimumSupportedVersion": "1.0",
+    "minimumSupportedBuild": 90,
+    "message": "Please install the latest DVC Copilot build in TestFlight to continue."
+  }
+}
