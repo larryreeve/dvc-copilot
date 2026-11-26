@@ -1,0 +1,984 @@
+{
+  "schemaVersion": 1,
+  "resortRoomViewerEnabled": true,
+  "roomImagesEnabled": true,
+  "rooms": [
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g10.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g01.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g02.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g03.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": "jambo",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g10.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g01.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g02.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u2/room-u2-g03.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": "kidani",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/au/room-au-g00-10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/au/room-au-g03-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/au/room-au-g01-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/au/room-au-g02-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/au/room-au-g04-12-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g02.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g13.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g21.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g01.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": "jambo",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g02.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g13.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g21.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/animal-kingdom-villas-jambo/Rooms/Non-Accessible/u3/room-u3-g01.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": "kidani",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/bu/room-bu-g00-17-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/bu/room-bu-g02-5-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/bu/room-bu-g04-5-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/bu/room-bu-g13-12-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/bu/room-bu-g01-5-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Animal-Kingdom-Villas-Jambo/dvcresorts-animal-kingdom-villas-jambohouse-roomspoints-story-3bedroomvilla-savannaview.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": "jambo",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Animal-Kingdom-Villas-Jambo/dvcresorts-animal-kingdom-villas-jambohouse-roomspoints-story-3bedroomvilla-savannaview.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": "kidani",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/du/room-du-g00-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/du/room-du-g10-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/du/room-du-g18-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/du/room-du-g02-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/du/room-du-g01-2-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Animal-Kingdom-Villas-Jambo/dvcresorts-animal-kingdom-villas-jambohouse-2br-lock-off-villa-savanna-view.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": "jambo",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Animal-Kingdom-Villas-Jambo/dvcresorts-animal-kingdom-villas-jambohouse-2br-lock-off-villa-savanna-view.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": "kidani",
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/cu/room-cu-g00-10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/cu/room-cu-g02-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/cu/room-cu-g04-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/cu/room-cu-g13-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-animal-kingdom-lodge/rooms/cu/room-cu-g01-4-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/aulani/post-pro/en/rooms-offers/villas/nbr-deluxe-studio-sv-1-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-hotel-room",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/aulani/post-pro/en/rooms-offers/rooms-suites/standard-room/standard-view-1-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/aulani/post-pro/en/rooms-offers/villas/one-bedroom-villa/Aulani-1brstand1-1-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/aulani/post-pro/en/rooms-offers/rooms-suites/three-bedroom/3-bed-villa-oc-00-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/aulani/post-pro/en/rooms-offers/villas/two-bedroom-villa/aulani-two-bed-villa-sv-1-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/da/room-da-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/da/room-da-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/da/room-da-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/da/room-da-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/da/room-da-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/db/room-db-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/db/room-db-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/db/room-db-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/db/room-db-g10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/db/room-db-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/dc/room-dc-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/dc/room-dc-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/dc/room-dc-g08-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/dc/room-dc-g13-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-beach-club-resort/villas/dc/room-dc-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4w/room-4w-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4w/room-4w-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4w/room-4w-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4w/room-4w-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4w/room-4w-g05-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4x/room-4x-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4x/room-4x-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4x/room-4x-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4x/room-4x-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4x/room-4x-g05-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4v/room-4v-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4v/room-4v-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4v/room-4v-g08-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4v/room-4v-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/bay-lake-tower-4v/room-4v-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4y/room-4y-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4y/room-4y-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4y/room-4y-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4y/room-4y-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/bay-lakes-tower/rooms/standard/bay-lake-tower-4y/room-4y-g05-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/deluxe-studio/room-xa-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/deluxe-studio/room-xa-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/deluxe-studio/room-xa-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/deluxe-studio/room-xa-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/deluxe-studio/room-xa-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/1-bedroom-villa/room-xb-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/1-bedroom-villa/room-xb-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/1-bedroom-villa/room-xb-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/1-bedroom-villa/room-xb-g10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/1-bedroom-villa/room-xb-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/2-bedroom-villa/room-xc-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/2-bedroom-villa/room-xc-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/2-bedroom-villa/room-xc-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/2-bedroom-villa/room-xc-g11-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/boulder-ridge-villas/standard/2-bedroom-villa/room-xc-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-az/room-az-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-az/room-az-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-az/room-az-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-az/room-az-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-az/room-az-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-zb/room-zb-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-zb/room-zb-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-zb/room-zb-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-zb/room-zb-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-zb/room-zb-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-dz/room-dz-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-dz/room-dz-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-dz/room-dz-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-dz/room-dz-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-boardwalk-resort/room/boardwalk-villas-dz/room-dz-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q2/boardwalk-villas/Rooms/Non-Accessible/zl/room-zl-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q2/boardwalk-villas/Rooms/Non-Accessible/zl/room-zl-g22.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q2/boardwalk-villas/Rooms/Non-Accessible/zl/room-zl-g08.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q2/boardwalk-villas/Rooms/Non-Accessible/zl/room-zl-g24.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q2/boardwalk-villas/Rooms/Non-Accessible/zl/room-zl-g01.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2a-deluxe-studio-resort-view/g/room-2a-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2a-deluxe-studio-resort-view/g/room-2a-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2a-deluxe-studio-resort-view/g/room-2a-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2a-deluxe-studio-resort-view/g/room-2a-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2a-deluxe-studio-resort-view/g/room-2a-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2e-1-bedroom-villa-resort-view/g/room-2e-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2e-1-bedroom-villa-resort-view/g/room-2e-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2e-1-bedroom-villa-resort-view/g/room-2e-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2e-1-bedroom-villa-resort-view/g/room-2e-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2e-1-bedroom-villa-resort-view/g/room-2e-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2i-3-bedroom-grand-villa/g/room-2i-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2i-3-bedroom-grand-villa/g/room-2i-g01-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2i-3-bedroom-grand-villa/g/room-2i-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2i-3-bedroom-grand-villa/g/room-2i-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2i-3-bedroom-grand-villa/g/room-2i-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-two-bedroom-cabin",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2k-2-bedroom-cabin/g/room-2k-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2k-2-bedroom-cabin/g/room-2k-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2k-2-bedroom-cabin/g/room-2k-g07-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2k-2-bedroom-cabin/g/room-2k-g10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2k-2-bedroom-cabin/g/room-2k-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2f-2-bedroom-villa-resort-view/g/room-2f-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2f-2-bedroom-villa-resort-view/g/room-2f-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2f-2-bedroom-villa-resort-view/g/room-2f-g10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2f-2-bedroom-villa-resort-view/g/room-2f-g14-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/Copper-Creek/standard/wilderness-lodge-copper-creek-resort-2f-2-bedroom-villa-resort-view/g/room-2f-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "CFW",
+      "roomTypeID": "room-cabin",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/dvc-cabins/room/1025ZN_0137JK_JRoh-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/dvc-cabins/room/1025ZN_0154JK_JRoh-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-cabins-at-disneys-fort-wilderness-resort/experience/room-ad7-g08-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-vacation-club/resorts/dvc-cabins/room/1025ZN_0117JK_JRoh-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-cabins-at-disneys-fort-wilderness-resort/experience/room-ad8-g06-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-ar-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-ar-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-ar-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-ar-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-ar-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-br-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-br-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-br-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-br-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-br-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-dr-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-dr-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-dr-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-dr-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-dr-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-cru-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-cru-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-cru-g08-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-cru-g11-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/hilton-head/rooms/room-cru-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-ka-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-ka-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-ka-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kb-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kb-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kb-g09-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-kd-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-kd-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-kd-g14-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-kd-g16-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kc-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kc-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/old-key-west-resort/rates-rooms/room-only/room-kc-g09-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mu/g/room-mu-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mu/g/room-mu-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mu/g/room-mu-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mu/g/room-mu-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mu/g/room-mu-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/deluxe-studio/Display-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/deluxe-studio/Display-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/deluxe-studio/Display-3-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/deluxe-studio/Display-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/deluxe-studio/Display-5-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-duo-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/penthouse/ProjectU_Duo-Studio-16x9.jpg"
+      ],
+      "artworkURLs": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/penthouse/ProjectU_Duo-Studio-16x9.jpg"
+      ]
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/1-bedroom/Display-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/1-bedroom/Display-6-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/1-bedroom/Display-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/1-bedroom/Display-11-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/1-bedroom/Display-3-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-two-bedroom-penthouse-villa",
+      "buildingID": null,
+      "urls": [
+        "https://disneyparksblog.com/app/uploads/2024/12/Welcome-Home-Island-Tower-Expansion-4-1620x1080.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/2-bedroom/Display-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/2-bedroom/Display-4-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/2-bedroom/Display-2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/2-bedroom/Display-8-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/villas/2-bedroom/Display-3-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-two-bedroom-bungalow",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mw/l/room-mw-00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mw/g/room-mw-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mw/g/room-mw-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mw/g/room-mw-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/standard-rooms/polynesian-villas-and-bungalows-mw/g/room-mw-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-10-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-10-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-10-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-A9-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-A9-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-A9-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-A9-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-T0-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-T0-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-T0-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-T0-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-T0-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-tower-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-W0-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-W0-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-H0-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/disney-world/resorts/riviera-resort/rates-rooms/room-H0-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-ta-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-ta-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-ta-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-ta-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-ta-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tb-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tb-g04-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tb-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tb-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tb-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-td-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-td-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-td-g14-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-td-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-td-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-three-bedroom-treehouse-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/saratoga-springs-resort-and-spa/Rooms/Non-Accessible/th/treehouse-th-g00.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/saratoga-springs-resort-and-spa/Rooms/Non-Accessible/th/treehouse-th-g08.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/saratoga-springs-resort-and-spa/Rooms/Non-Accessible/th/treehouse-th-g13.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/saratoga-springs-resort-and-spa/Rooms/Non-Accessible/th/treehouse-th-g22.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/dam/wdpro-assets/gallery/resorts-fy16q4/saratoga-springs-resort-and-spa/Rooms/Non-Accessible/th/treehouse-th-g01.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tc-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tc-g06-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tc-g15-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tc-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-saratoga-springs-resort-spa/room-tc-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-deluxe-inn-room",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/inn-ocean-view/room-io-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/inn-ocean-view/room-io-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/inn-ocean-view/room-io-g01-1-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/inn-ocean-view/room-io-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/inn-ocean-view/room-io-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/deluxe-studio/room-ao-00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/deluxe-studio/room-ao-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/deluxe-studio/room-ao-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/deluxe-studio/room-ao-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/deluxe-studio/room-ao-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/1-bedroom-villa/room-bo-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/1-bedroom-villa/room-bo-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/1-bedroom-villa/room-bo-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/1-bedroom-villa/room-bo-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/1-bedroom-villa/room-bo-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-three-bedroom-beach-cottage",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/3-bedroom-beach-cottage/room-do-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/3-bedroom-beach-cottage/room-do-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/3-bedroom-beach-cottage/room-do-g15-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/3-bedroom-beach-cottage/room-do-g13-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/3-bedroom-beach-cottage/room-do-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/2-bedroom-villa/room-co-00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/2-bedroom-villa/room-co-g10-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/2-bedroom-villa/room-co-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/2-bedroom-villa/room-co-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/beach-resorts/vero-beach/in-room/standard-room/2-bedroom-villa/room-co-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0925ZN_0333KP_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-duo-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0917ZN_0660KP_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-garden-room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0925ZN_0164KP_A_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-garden-room-duo-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0921ZN_0081KP_xak-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0919ZN_0136KP_B_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0926ZN_0207KP_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/villas-at-disneyland-hotel/experience/0924ZN_0713KP_xak-2x1.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-standard-assets/disney-vacation-club/migration/grand-californian/dvcresorts-villasgrandcalifornian-rooms-points-story-deluxestudio.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-standard-assets/disney-vacation-club/migration/grand-californian/dvcresorts-villasgrandcalifornian-roomspoints-story-2br-villa.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-standard-assets/disney-vacation-club/migration/grand-californian/dvcresorts-villasgrandcalifornian-roomspoints-story-3br-grand-villa.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-standard-assets/disney-vacation-club/migration/grand-californian/dvcresorts-villasgrandcalifornian-roomspoints-story-2br-villa.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-86/room-86-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-86/room-86-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-86/room-86-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-86/room-86-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-86/room-86-g02-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-87/room-87-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-87/room-87-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-87/room-87-g07-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-87/room-87-g09-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-87/room-87-g01-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-resort-studio",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/1210ZP_0127KP_JRoh_R2-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/1210ZP_0036KP_JRoh-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/1210ZP_0301KP-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/1210ZP_0234KP-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/grand-floridian/1210ZP_0265KP-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-85/room-85-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-85/room-85-g01-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-85/room-85-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-85/room-85-g05-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-85/room-85-g03-16x9.jpg"
+      ],
+      "artworkURLs": []
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "urls": [
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-88/room-88-g00-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-83/room-83-g02-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-83/room-83-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-88/room-88-g03-16x9.jpg",
+        "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1200/675/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/the-villas-at-disneys-grand-floridian-resort-and-spa/rooms/room-83/room-83-g04-16x9.jpg"
+      ],
+      "artworkURLs": []
+    }
+  ]
+}
