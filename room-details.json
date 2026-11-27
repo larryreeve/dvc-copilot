@@ -1,0 +1,2287 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "updatedAt": "2026-11-27",
+  "rooms": [
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Jambo House: Queen bed · double sleeper sofa\nKidani Village: Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": "Jambo House and Kidani Village have different beds and bathroom layouts. Select a building to explore its rooms; a point-chart category does not choose a building.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · double sleeper sofa",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": "Value and Club categories are at Jambo House; the room size and view depend on the category.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": "kidani",
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "Jambo House: King bed · queen sleeper sofa · twin sleeper chair\nKidani Village: King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "Jambo House: 1 bathroom; Kidani Village: 2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": "Jambo House and Kidani Village have different beds and bathroom layouts. Select a building to explore its rooms; a point-chart category does not choose a building.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room layout information",
+            "url": "https://plandisney.disney.go.com/question/seeing-posts-stating-kidani-village-villas-bathrooms-237630/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen sleeper sofa · twin sleeper chair",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": "Value and Club categories are at Jambo House. Value one-bedroom villas sleep up to 4; other one-bedroom categories sleep up to 5.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room layout information",
+            "url": "https://plandisney.disney.go.com/question/seeing-posts-stating-kidani-village-villas-bathrooms-237630/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": "kidani",
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Jambo House: King bed · 4 queen beds · queen sleeper sofa\nKidani Village: King bed · 4 queen beds · queen pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "Jambo House: 3 bathrooms; Kidani Village: 4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": "Jambo House and Kidani Village have different beds and bathroom layouts. Select a building to explore its rooms; a point-chart category does not choose a building.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": "kidani",
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": null,
+        "separateBedroomCount": 2,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": null,
+        "layoutNote": "Jambo House and Kidani Village have different beds and bathroom layouts. Select a building to explore its rooms; a point-chart category does not choose a building.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/animal-kingdom-villas-jambo/points-rooms",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": null,
+        "separateBedroomCount": 2,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": null,
+        "layoutNote": "A lock-off joins a one-bedroom villa and a studio. Value villas sleep up to 8; other categories sleep up to 9. Beds vary by category.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/animal-kingdom-villas-jambo/points-rooms",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": "kidani",
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed · 1 single pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen sleeper sofa",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://www.disneyaulani.com/rooms-offers/villas/deluxe-studio/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://www.disneyaulani.com/about-aulani/guest-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-hotel-room",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A hotel room with a private balcony or porch, a small refrigerator and island-inspired furnishings.",
+        "sleepingArrangements": "2 queen beds or a king bed and queen sleeper sofa",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Small refrigerator and coffee maker",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://www.disneyaulani.com/rooms-offers/rooms-suites/standard-room/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://www.disneyaulani.com/about-aulani/guest-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen sleeper sofa · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://www.disneyaulani.com/rooms-offers/villas/one-bedroom-villa/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa · twin sleeper chair",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://www.disneyaulani.com/rooms-offers/villas/three-bedroom-grand-villa/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AUL",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Dedicated villa: king bed · 2 queen beds · queen sleeper sofa · sleeper chair. A lock-off may be substituted; beds differ.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "A dedicated villa has 2 full bathrooms and a half bathroom. Disney may substitute a lock-off villa with a different layout.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://www.disneyaulani.com/rooms-offers/villas/two-bedroom-villa/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/beach-club-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/beach-club-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BCV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size sleeper sofa OR 1 king bed · 2 queen bed · 1 queen-size pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": null,
+        "layoutNote": "Dedicated and lock-off villas have different beds and guest limits. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/beach-club-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · double pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/bay-lake-tower-at-contemporary/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/bay-lake-tower-at-contemporary/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · double pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/bay-lake-tower-at-contemporary/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BLT",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed · 1 single pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/bay-lake-tower-at-contemporary/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed OR Queen bed · queen sleeper sofa · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boulder-ridge-villas-at-wilderness-lodge/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed OR King bed · queen sleeper sofa",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boulder-ridge-villas-at-wilderness-lodge/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BRV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull-down bed OR 1 king bed · 2 queen bed · 1 queen-size sleeper sofa. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": null,
+        "layoutNote": "Dedicated and lock-off villas have different beds and guest limits. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boulder-ridge-villas-at-wilderness-lodge/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boardwalk-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 4,
+        "layoutNote": "DVC points bookings can accommodate a fifth guest in this one-bedroom villa. No additional bedding, linens, or towels are provided for that guest. Confirm with Disney before booking.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boardwalk-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "BoardWalk fifth-guest policy for DVC points bookings",
+            "url": "https://plandisney.disney.go.com/question/stay-boardwalk-villas-website-says-one-bedroom-villa-538944/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/boardwalk-villas/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "BWV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen bed · 2 queen pull-downs · single pull-down",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "A lock-off combines a one-bedroom villa and an adjoining studio.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/boardwalk-villas/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/copper-creek-villas-and-cabins/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/copper-creek-villas-and-cabins/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/copper-creek-villas-and-cabins/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-two-bedroom-cabin",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A two-bedroom waterfront cabin with a kitchen and a screened porch with a private hot tub.",
+        "sleepingArrangements": "King bed · queen bed · queen sleeper sofa · single pull-down bed · twin sleeper chair",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 8,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/copper-creek-villas-and-cabins/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CCV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 8,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/copper-creek-villas-and-cabins/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "CFW",
+      "roomTypeID": "room-cabin",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A freestanding cabin with a separate bedroom, a living area, a full kitchen and a private patio deck.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · bunk bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 6,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/dvc-cabins-at-fort-wilderness-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://hiltonhead.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disney.go.com/vacations/websites/disneyvacationclub/memberguidebook/dvcr/gi/hs.html",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · twin sleeper chair",
+        "separateBedroomCount": 1,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://hiltonhead.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://hiltonhead.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "HHI",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed · 1 twin-size sleeper chair. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://hiltonhead.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "2 queen beds",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/old-key-west-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/old-key-west-resort",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen sleeper sofa · twin sleeper chair",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/old-key-west-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/booked-bedroom-villa-old-key-west-tell-bathrooms-type-233943/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 2 queen beds · 2 double beds · queen sleeper sofa · twin sleeper chair",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/old-key-west-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/bathrooms-old-key-west-bedroom-villas-415274/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "OKW",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size sleeper sofa · 1 twin-size sleeper chair. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/old-key-west-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/bathrooms-bedroom-villa-old-key-west-information-helpful-370244/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A studio in the original Polynesian villas, with a kitchenette and two washing areas: a tub/shower and a separate shower.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An Island Tower studio with a kitchenette, a small dishwasher and space for four guests.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-duo-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A compact Island Tower studio for two with a pull-down bed, a kitchenette and a balcony or patio.",
+        "sleepingArrangements": "Queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Beverage cooler, microwave and coffee maker",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 2,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-two-bedroom-penthouse-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An Island Tower villa with two bedrooms, three bathrooms, a kitchen and an extra-large private deck.",
+        "sleepingArrangements": "King bed · 2 queen beds · queen pull-down bed",
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 8,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-island-tower-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull-down bed · 1 single pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "PVB",
+      "roomTypeID": "room-two-bedroom-bungalow",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An overwater bungalow with two bedrooms, a kitchen and a deck with a private plunge pool.",
+        "sleepingArrangements": "King bed · queen bed · queen pull-down bed · 2 single pull-down beds",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 8,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/polynesian-villas-bungalows/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "Split bathroom: tub/shower area and a separate walk-in shower",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/riviera-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "Tub and a separate walk-in shower",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/riviera-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/riviera-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-tower-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A compact studio for two, with a queen bed that folds away to create living space.",
+        "sleepingArrangements": "Queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "Walk-in shower",
+        "kitchen": "Beverage cooler, microwave and coffee maker",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 2,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/riviera-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "RIV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed · 1 single pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/riviera-resort/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · double pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/saratoga-springs-resort-and-spa",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · twin pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": "Disney notes potential changes to sleeping capacity. Confirm the current layout and guest limit for your booking.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney point chart and capacity notes",
+            "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/dvc/catalog/resorts/dvc-resorts/SSR-2026.pdf",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/need-bedroom-accommodations-456493/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-three-bedroom-treehouse-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A freestanding, elevated villa with three bedrooms, living space, a kitchen and an outdoor deck.",
+        "sleepingArrangements": "2 queen beds · queen sleeper sofa · bunk bed · child-size pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Disney’s DVC room listing specifies up to 9 guests. Furnishings may change after refurbishment; confirm the current layout.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney point chart and capacity notes",
+            "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/dvc/catalog/resorts/dvc-resorts/SSR-2026.pdf",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/need-pictures-layout-treehouse-villas-637808/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/saratoga-springs-resort-and-spa",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "SSR",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Dedicated: king bed · 2 queen beds · queen pull-down · twin pull-down. Lock-off: king bed · queen bed · queen pull-down · double pull-down · twin pull-down.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different beds and guest limits. Confirm the layout with Disney. Disney notes potential changes to sleeping capacity. Confirm the current layout and guest limit for your booking.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney point chart and capacity notes",
+            "url": "https://cdn1.parksmedia.wdprapps.disney.com/media/dvc/catalog/resorts/dvc-resorts/SSR-2026.pdf",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/saratoga-springs-resort-and-spa",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-deluxe-inn-room",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://verobeach.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disney.go.com/vacations/websites/disneyvacationclub/memberguidebook/dvcr/gi/hs.html",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://verobeach.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disney.go.com/vacations/websites/disneyvacationclub/memberguidebook/dvcr/gi/hs.html",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space.",
+        "sleepingArrangements": "King bed · queen sleeper sofa · twin sleeper chair OR King bed · queen pull-down bed · twin sleeper chair",
+        "separateBedroomCount": 1,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://verobeach.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney villa kitchen and laundry amenities",
+            "url": "https://plandisney.disney.go.com/question/room-amenities-disneys-vero-beach-630467/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-three-bedroom-beach-cottage",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A detached, two-story beach cottage with three bedrooms and living and dining space.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://verobeach.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney Vacation Club beach cottage information",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/vero-beach-resort/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney villa kitchen and laundry amenities",
+            "url": "https://plandisney.disney.go.com/question/room-amenities-disneys-vero-beach-630467/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VB",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space.",
+        "sleepingArrangements": "Published layout: 1 king bed · 1 queen bed · 1 queen-size sleeper sofa · 1 double-size sleeper sofa · 1 twin-size sleeper chair OR 1 king bed · 1 queen bed · 1 queen-size pull down bed · 1 double-size pull down bed · 1 twin-size sleeper chair. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Beds differ between dedicated and lock-off villas and refurbished room layouts. Confirm the configuration with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://verobeach.disney.go.com/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney villa kitchen and laundry amenities",
+            "url": "https://plandisney.disney.go.com/question/room-amenities-disneys-vero-beach-630467/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/looking-forward-staying-deluxe-studio-room-villas-616943/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-duo-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 2,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/looking-forward-staying-deluxe-studio-room-villas-616943/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-garden-room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Separate from the main tower, with a balcony or patio and easy access to the pool.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/looking-forward-staying-deluxe-studio-room-villas-616943/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-garden-room-duo-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Separate from the main tower, with a balcony or patio and easy access to the pool.",
+        "sleepingArrangements": "Queen pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 2,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/looking-forward-staying-deluxe-studio-room-villas-616943/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · twin pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · 2 twin pull-down beds",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VDH",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": null,
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different beds; confirm which layout is reserved.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/villas-at-disneyland-hotel/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen sleeper sofa",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/grand-californian-villas/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyland.disney.go.com/hotels/grand-californian-hotel/services-amenities/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen sleeper sofa · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/grand-californian-villas/points-rooms",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen sleeper sofa · double sleeper sofa",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/grand-californian-villas/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/bathrooms-bedroom-suites-grand-californian-463339/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGC",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": null,
+        "separateBedroomCount": 2,
+        "bathrooms": "3 bathrooms (including a shower bathroom off the living area)",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different beds; confirm which layout is reserved.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/california/grand-californian-villas/points-rooms",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://plandisney.disney.go.com/question/bathrooms-bedroom-suites-grand-californian-thank-447388/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "Bathroom with a separate tub and shower",
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/villas-at-grand-floridian-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen pull-down bed · single pull-down bed",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/villas-at-grand-floridian-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-resort-studio",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "A hotel-style studio with two queen beds and a day bed. Its beverage cooler and coffee station differ from the Deluxe Studio kitchenette.",
+        "sleepingArrangements": "2 queen beds · day bed",
+        "separateBedroomCount": 0,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Beverage cooler and coffee station",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 5,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/villas-at-grand-floridian-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyvacationclub.disney.go.com/media/dvc/en/_global/footer/Standard-Information-form-for-timeshare-contracts.pdf",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-three-bedroom-grand-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Three separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · 4 queen beds · queen pull-down bed",
+        "separateBedroomCount": 3,
+        "bathrooms": "4 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 12,
+        "layoutNote": null,
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/villas-at-grand-floridian-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "VGF",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": null,
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Published layout: 1 king bed · 2 queen bed · 1 queen-size pull down bed · 1 single pull down bed. Beds can differ in a lock-off; confirm the reserved layout.",
+        "separateBedroomCount": 2,
+        "bathrooms": "2 bathrooms",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 9,
+        "layoutNote": "Dedicated and lock-off villas have different sleeping arrangements. Confirm the layout with Disney.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/villas-at-grand-floridian-resort-and-spa/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      }
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-deluxe-studio",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "An open sleeping and living area with a kitchenette.",
+        "sleepingArrangements": "Queen bed · double sleeper sofa",
+        "separateBedroomCount": 0,
+        "bathrooms": null,
+        "kitchen": "Kitchenette with a small fridge and microwave",
+        "laundry": "Shared laundry facilities at the resort",
+        "maximumGuests": 4,
+        "layoutNote": "Value accommodations are at Jambo House. The smaller layout differs from other room categories.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room amenities and layout information",
+            "url": "https://disneyworld.disney.go.com/guest-services/laundry-services/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      },
+      "viewID": "view-value"
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-one-bedroom-villa",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "One separate bedroom with living space and a full kitchen.",
+        "sleepingArrangements": "King bed · queen sleeper sofa",
+        "separateBedroomCount": 1,
+        "bathrooms": "1 bathroom",
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 4,
+        "layoutNote": "Value accommodations are at Jambo House. The smaller layout differs from other room categories.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyworld.disney.go.com/resorts/animal-kingdom-villas-jambo/rates-rooms/",
+            "checkedOn": "2026-11-25"
+          },
+          {
+            "title": "Disney room layout information",
+            "url": "https://plandisney.disney.go.com/question/seeing-posts-stating-kidani-village-villas-bathrooms-237630/",
+            "checkedOn": "2026-11-27"
+          }
+        ]
+      },
+      "viewID": "view-value"
+    },
+    {
+      "resortID": "AKV",
+      "roomTypeID": "room-two-bedroom-villa",
+      "buildingID": "jambo",
+      "facts": {
+        "roomDescription": "Two separate bedrooms with living space and a full kitchen.",
+        "sleepingArrangements": "Lock-off: king bed · queen bed · queen sleeper sofa · double sleeper sofa",
+        "separateBedroomCount": 2,
+        "bathrooms": null,
+        "kitchen": "Full kitchen",
+        "laundry": "Washer and dryer in the villa",
+        "maximumGuests": 8,
+        "layoutNote": "Value accommodations are at Jambo House. The smaller layout differs from other room categories.",
+        "sources": [
+          {
+            "title": "Disney room descriptions and amenities",
+            "url": "https://disneyvacationclub.disney.go.com/destinations/list/florida/animal-kingdom-villas-jambo/points-rooms",
+            "checkedOn": "2026-11-25"
+          }
+        ]
+      },
+      "viewID": "view-value"
+    }
+  ]
+}
